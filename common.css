@@ -1,0 +1,84 @@
+/* COMMON PART */
+
+@font-face {
+    font-family: "SF Pro Display-Bold";
+    font-style: normal;
+    font-weight: 700;
+    src: url("https://fonts.animaapp.com/SFProDisplay-Bold") format("opentype");
+}
+  
+@import url("https://fonts.googleapis.com/css?family=Montserrat:500");
+  
+@font-face {
+    font-family: "SF Pro Display-Medium";
+    font-style: normal;
+    font-weight: 500;
+    src: url("https://fonts.animaapp.com/SFProDisplay-Medium");
+}
+  
+@font-face {
+    font-family: "SF Pro Display-Semibold";
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://fonts.animaapp.com/SFProDisplay-Semibold") format("opentype");
+}
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+.btntd{
+  width:160px;
+  text-align: end;}
+.btnftd{text-align: end;}
+
+.facebook, .linkedin, .twitter{height: 70px;}
+.instagram{height: 73px;}
+.github{height: 71px;}
+.socials{text-align: center;}
+
+textarea[name="textarea"]{
+    resize: none;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    background-image: linear-gradient(to left, rgb(255, 209, 209), white);
+}
+
+::placeholder{
+    color: rgb(87, 87, 87);
+    font-family: var(--font-family-sf_pro_display-medium);
+    font-style: italic;
+    padding-top: 30px;
+    text-align: center;
+}
+
+:root {
+    --black-d:rgb(16, 18, 41);
+    --white-d:rgba(255, 255, 255, 0.849); 
+    --black-l:rgba(0, 0, 0, 1);
+    --white-l:rgba(255, 255, 255, 1);
+  
+    --font-size-s: 23.5px;
+      --font-size-m: 22px;
+      --font-size-m: 24px;
+      --font-size-l: 23px;
+      --font-size-xxl: 55px;
+      --font-size-xxxl: 52px;
+      --font-size-s2: 20px;
+      --font-size-xl2: 25px;
+      --font-size-xxl2: 28px;
+    
+      --font-family-montserrat: "Montserrat";
+      --font-family-sf_pro_display-bold: "SF Pro Display-Bold";
+      --font-family-sf_pro_display-medium: "SF Pro Display-Medium";
+      --font-family-sf_pro_display-semibold: "SF Pro Display-Semibold";
+  }
+  
+  .montserrat-medium-black-25px {
+    color: var(--black);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl2);
+    font-weight: 500;
+    font-style: normal;
+  }

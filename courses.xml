@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="courses.css"?>
+
+<body>
+    <heading>Courses I have completed</heading>
+    <college>Vellore Institute of Technology - Amaravathi (AP)</college>
+    <table>
+        <colgroup>
+            <col id='sl'/>
+            <col id='cname'/>
+            <col id='cr'/>
+        </colgroup>
+        <thead>
+            <tr>
+                <th>Serial number</th>
+                <th>Course Name</th>
+                <th>Credits</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Problem solving using Java</td>
+                <td>4</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>2</td>
+                <td>Calculus for Engineers</td>
+                <td>4</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>3</td>
+                <td>Problem solving using C</td>
+                <td>2</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>4</td>
+                <td>Fundamentals of aptitude</td>
+                <td>1</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>5</td>
+                <td>Data Structures and Algorithms</td>
+                <td>4</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>6</td>
+                <td>Digital Logic Design</td>
+                <td>4</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>7</td>
+                <td>Applications of differential and difference equations</td>
+                <td>4</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>8</td>
+                <td>Applied Statistics</td>
+                <td>2</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>9</td>
+                <td>Quantitative, Logical and Verbal ability</td>
+                <td>1</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>10</td>
+                <td>Foundations for Data Analytics</td>
+                <td>3</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>11</td>
+                <td>Introduction to Cryptography</td>
+                <td>4</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>12</td>
+                <td>Object Oriented Programming</td>
+                <td>4</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>13</td>
+                <td>Computer Organization and Architecture</td>
+                <td>3</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>14</td>
+                <td>Discrete Mathematical Structures</td>
+                <td>3</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>15</td>
+                <td>Numerical Ability and Cognitive Intelligence</td>
+                <td>1</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>16</td>
+                <td>Database Management Systems</td>
+                <td>3</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>17</td>
+                <td>Operating Systems</td>
+                <td>3</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>18</td>
+                <td>Web Technologies</td>
+                <td>4</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>19</td>
+                <td>Optimization Techniques</td>
+                <td>3</td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td class="sl">20</td>
+                <td>Arithmetic Problem Solving Skills</td>
+                <td>1</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
