@@ -9,3 +9,4 @@ Constraints:
 4.	Apply XML to store your web content                                                                       -->   (2 Marks)
 5.	Apply other latest web techniques and your own creativity.                                                -->   (5 Marks)
 
+Total = 15 marks :(
