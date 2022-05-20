@@ -49,7 +49,7 @@
   <div><a href="showfeedbacks.php"><button class="show">View feedbacks</button></a></div>
   <?php
     $feedback_txt = $_POST['textarea'];
-    $conn = mysqli_connect("localhost", "root","sourin", "feedback");
+    $conn = mysqli_connect("127.0.0.1", "root","", "feedback");
     $query ="insert into feedback(feedback) values ('$feedback_txt')";
     $result = mysqli_query($conn, $query);
     if($result)
