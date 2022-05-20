@@ -1,4 +1,4 @@
-# CSE4004 - Wech Technologies
+# CSE4004 - Web Technologies (4 credits)
 ## Theory assignment
 ### Make your personal website
 
