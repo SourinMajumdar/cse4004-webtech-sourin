@@ -77,8 +77,6 @@
         } echo "</table>";
         $conn->close(); 
     ?>
-    <a href="../light.html"><button>Go back to main page</button></a>
-
-
+    <a href="index.html"><button>Go back to main page</button></a>
 </body>
 </html>
