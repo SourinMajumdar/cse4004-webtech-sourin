@@ -68,7 +68,7 @@
     <div class="head"><h2>Feedbacks</h2></div>
     
     <?php
-        $conn = new mysqli("localhost", "root","sourin", "feedback");
+        $conn = new mysqli("127.0.0.1", "root","", "feedback");
         $sql = "SELECT * FROM feedback";
         $result = $conn->query($sql);
         echo "<table>"; 
