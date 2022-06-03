@@ -36,4 +36,4 @@ _[Previously deployed with **Heroku**, but later removed from deployment due to 
 <h3></h3>
 <img src=screenshots/10.png ></img>
 
-<h3> Got 13/15 even after doing such a nice job, fulfilling all constraints given in problem statement, making the best one in the whole class. This is why I don't college. </h3>
+<h3> Got 13/15 even after doing such a nice job, fulfilling all constraints given in problem statement, making the best one in the whole class. This is why I don't like college. </h3>
